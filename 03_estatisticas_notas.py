@@ -1,4 +1,4 @@
-notas = [7.5, 8.0, 6.5, 9.0, 7.8]
+notas = [7.5, 8.0, 6.5, 9.0, 7.8, 4.2, 0.5, 3.0]
 media = sum(notas) / len(notas)
 maior = max(notas)
 menor = min(notas)
