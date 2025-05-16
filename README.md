@@ -1,2 +1,2 @@
 # Exerc-cios-Python-UFF
-Todos os exercícios proposto em aula para a disciplina e Tecnologia da Informação.
+Todos os exercícios propostos em aula para a disciplina e Tecnologia da Informação.
